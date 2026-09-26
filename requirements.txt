@@ -1,0 +1,2 @@
+deep-translator
+selenium>=4.6
